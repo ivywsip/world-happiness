@@ -1,0 +1,777 @@
+year,continent,region,country,happiness rank,happiness score
+2014,Europe,Western Europe,Switzerland,1,7.587000000000001
+2014,Europe,Northern Europe,Iceland,2,7.561
+2014,Europe,Northern Europe,Denmark,3,7.527
+2014,Europe,Northern Europe,Norway,4,7.522
+2014,America,Northern America,Canada,5,7.4270000000000005
+2014,Europe,Northern Europe,Finland,6,7.406000000000001
+2014,Europe,Western Europe,Netherlands,7,7.377999999999999
+2014,Europe,Northern Europe,Sweden,8,7.364
+2014,Oceania,Australia and New Zealand,New Zealand,9,7.2860000000000005
+2014,Oceania,Australia and New Zealand,Australia,10,7.284
+2014,Asia,Western Asia,Israel,11,7.278
+2014,America,Central America,Costa Rica,12,7.226
+2014,Europe,Western Europe,Austria,13,7.2
+2014,America,Central America,Mexico,14,7.187
+2014,America,Northern America,United States,15,7.119
+2014,America,South America,Brazil,16,6.983
+2014,Europe,Western Europe,Luxembourg,17,6.946000000000001
+2014,Europe,Northern Europe,Ireland,18,6.94
+2014,Europe,Western Europe,Belgium,19,6.937
+2014,Asia,Western Asia,United Arab Emirates,20,6.901
+2014,Europe,Northern Europe,United Kingdom,21,6.867000000000001
+2014,Asia,Western Asia,Oman,22,6.853
+2014,America,South America,Venezuela,23,6.81
+2014,Asia,South-Eastern Asia,Singapore,24,6.797999999999999
+2014,America,Central America,Panama,25,6.7860000000000005
+2014,Europe,Western Europe,Germany,26,6.75
+2014,America,South America,Chile,27,6.67
+2014,Asia,Western Asia,Qatar,28,6.611000000000001
+2014,Europe,Western Europe,France,29,6.575
+2014,America,South America,Argentina,30,6.574
+2014,Europe,Eastern Europe,Czech Republic,31,6.505
+2014,America,South America,Uruguay,32,6.485
+2014,America,South America,Colombia,33,6.477
+2014,Asia,South-Eastern Asia,Thailand,34,6.455
+2014,Asia,Western Asia,Saudi Arabia,35,6.4110000000000005
+2014,Europe,Southern Europe,Spain,36,6.329
+2014,Europe,Southern Europe,Malta,37,6.3020000000000005
+2014,Asia,Eastern Asia,Taiwan,38,6.297999999999999
+2014,Asia,Western Asia,Kuwait,39,6.295
+2014,America,South America,Suriname,40,6.269
+2014,America,Caribbean,Trinidad and Tobago,41,6.167999999999999
+2014,America,Central America,El Salvador,42,6.13
+2014,America,Central America,Guatemala,43,6.122999999999999
+2014,Asia,Central Asia,Uzbekistan,44,6.002999999999999
+2014,Europe,Eastern Europe,Slovakia,45,5.995
+2014,Asia,Eastern Asia,Japan,46,5.987
+2014,Asia,Eastern Asia,South Korea,47,5.984
+2014,America,South America,Ecuador,48,5.975
+2014,Asia,Western Asia,Bahrain,49,5.96
+2014,Europe,Southern Europe,Italy,50,5.9479999999999995
+2014,America,South America,Bolivia,51,5.89
+2014,Europe,Eastern Europe,Moldova,52,5.888999999999999
+2014,America,South America,Paraguay,53,5.877999999999999
+2014,Asia,Central Asia,Kazakhstan,54,5.855
+2014,Europe,Southern Europe,Slovenia,55,5.848
+2014,Europe,Northern Europe,Lithuania,56,5.832999999999999
+2014,America,Central America,Nicaragua,57,5.827999999999999
+2014,America,South America,Peru,58,5.824
+2014,Europe,Eastern Europe,Belarus,59,5.813
+2014,Europe,Eastern Europe,Poland,60,5.791
+2014,Asia,South-Eastern Asia,Malaysia,61,5.77
+2014,Europe,Southern Europe,Croatia,62,5.7589999999999995
+2014,Africa,Northern Africa,Libya,63,5.754
+2014,Europe,Eastern Europe,Russia,64,5.716
+2014,America,Caribbean,Jamaica,65,5.709
+2014,Asia,Western Asia,Cyprus,66,5.695
+2014,Africa,Northern Africa,Algeria,68,5.605
+2014,Europe,Southern Europe,Kosovo,69,5.5889999999999995
+2014,Asia,Central Asia,Turkmenistan,70,5.547999999999999
+2014,Africa,Eastern Africa,Mauritius,71,5.477
+2014,Asia,Eastern Asia,Hong Kong,72,5.474
+2014,Europe,Northern Europe,Estonia,73,5.428999999999999
+2014,Asia,South-Eastern Asia,Indonesia,74,5.399
+2014,Asia,South-Eastern Asia,Vietnam,75,5.36
+2014,Asia,Western Asia,Turkey,76,5.332000000000001
+2014,Asia,Central Asia,Kyrgyz Republic,77,5.2860000000000005
+2014,Africa,Western Africa,Nigeria,78,5.268
+2014,Asia,Southern Asia,Bhutan,79,5.252999999999999
+2014,Asia,Western Asia,Azerbaijan,80,5.212000000000001
+2014,Asia,Southern Asia,Pakistan,81,5.194
+2014,Asia,Western Asia,Jordan,82,5.192
+2014,Europe,Southern Europe,Montenegro,82,5.192
+2014,Asia,Eastern Asia,China,84,5.14
+2014,Africa,Eastern Africa,Zambia,85,5.129
+2014,Europe,Eastern Europe,Romania,86,5.124
+2014,Europe,Southern Europe,Serbia,87,5.122999999999999
+2014,Europe,Southern Europe,Portugal,88,5.102
+2014,Europe,Northern Europe,Latvia,89,5.098
+2014,Asia,South-Eastern Asia,Philippines,90,5.073
+2014,Africa,Eastern Africa,Somalia,91,5.0569999999999995
+2014,Africa,Northern Africa,Morocco,92,5.013
+2014,Europe,Southern Europe,Macedonia,93,5.007
+2014,Africa,Eastern Africa,Mozambique,94,4.971
+2014,Europe,Southern Europe,Albania,95,4.959
+2014,Europe,Southern Europe,Bosnia and Herzegovina,96,4.949
+2014,Africa,Southern Africa,Lesotho,97,4.898
+2014,America,Caribbean,Dominican Republic,98,4.885
+2014,Asia,South-Eastern Asia,Laos,99,4.876
+2014,Asia,Eastern Asia,Mongolia,100,4.874
+2014,Africa,Southern Africa,Eswatini,101,4.867
+2014,Europe,Southern Europe,Greece,102,4.857
+2014,Asia,Western Asia,Lebanon,103,4.8389999999999995
+2014,Europe,Eastern Europe,Hungary,104,4.8
+2014,America,Central America,Honduras,105,4.788
+2014,Asia,Central Asia,Tajikistan,106,4.7860000000000005
+2014,Africa,Northern Africa,Tunisia,107,4.739
+2014,Asia,Western Asia,Palestine,108,4.715
+2014,Asia,Southern Asia,Bangladesh,109,4.694
+2014,Asia,Southern Asia,Iran,110,4.686
+2014,Europe,Eastern Europe,Ukraine,111,4.681
+2014,Asia,Western Asia,Iraq,112,4.677
+2014,Africa,Southern Africa,South Africa,113,4.6419999999999995
+2014,Africa,Western Africa,Ghana,114,4.633
+2014,Africa,Eastern Africa,Zimbabwe,115,4.61
+2014,Africa,Western Africa,Liberia,116,4.571000000000001
+2014,Asia,Southern Asia,India,117,4.565
+2014,Africa,Northern Africa,Sudan,118,4.55
+2014,America,Caribbean,Haiti,119,4.518
+2014,Africa,Middle Africa,DR Congo,120,4.5169999999999995
+2014,Asia,Southern Asia,Nepal,121,4.513999999999999
+2014,Africa,Eastern Africa,Ethiopia,122,4.512
+2014,Africa,Western Africa,Sierra Leone,123,4.507
+2014,Africa,Western Africa,Mauritania,124,4.436
+2014,Africa,Eastern Africa,Kenya,125,4.419
+2014,Africa,Eastern Africa,Djibouti,126,4.369
+2014,Asia,Western Asia,Armenia,127,4.35
+2014,Africa,Southern Africa,Botswana,128,4.332
+2014,Asia,Eastern Asia,Myanmar,129,4.3069999999999995
+2014,Asia,Western Asia,Georgia,130,4.297
+2014,Africa,Eastern Africa,Malawi,131,4.292
+2014,Asia,Southern Asia,Sri Lanka,132,4.271
+2014,Africa,Middle Africa,Cameroon,133,4.252
+2014,Europe,Eastern Europe,Bulgaria,134,4.218
+2014,Africa,Northern Africa,Egypt,135,4.194
+2014,Asia,Western Asia,Yemen,136,4.077
+2014,Africa,Middle Africa,Angola,137,4.033
+2014,Africa,Western Africa,Mali,138,3.995
+2014,Africa,Middle Africa,Congo Republic,139,3.989
+2014,Africa,Eastern Africa,Comoros,140,3.9560000000000004
+2014,Africa,Eastern Africa,Uganda,141,3.931
+2014,Africa,Western Africa,Senegal,142,3.904
+2014,Africa,Middle Africa,Gabon,143,3.8960000000000004
+2014,Africa,Western Africa,Niger,144,3.845
+2014,Asia,South-Eastern Asia,Cambodia,145,3.819
+2014,Africa,Eastern Africa,Tanzania,146,3.781
+2014,Africa,Eastern Africa,Madagascar,147,3.681
+2014,Africa,Middle Africa,Central African Republic,148,3.678
+2014,Africa,Middle Africa,Chad,149,3.667
+2014,Africa,Western Africa,Guinea,150,3.656
+2014,Africa,Western Africa,Cote d'Ivoire,151,3.655
+2014,Africa,Western Africa,Burkina Faso,152,3.5869999999999997
+2014,Asia,Southern Asia,Afghanistan,153,3.575
+2014,Africa,Eastern Africa,Rwanda,154,3.465
+2014,Africa,Western Africa,Benin,155,3.34
+2014,Asia,Western Asia,Syria,156,3.0060000000000002
+2014,Africa,Eastern Africa,Burundi,157,2.905
+2014,Africa,Western Africa,Togo,158,2.839
+2015,Europe,Northern Europe,Denmark,1,7.526
+2015,Europe,Western Europe,Switzerland,2,7.5089999999999995
+2015,Europe,Northern Europe,Iceland,3,7.501
+2015,Europe,Northern Europe,Norway,4,7.497999999999999
+2015,Europe,Northern Europe,Finland,5,7.412999999999999
+2015,America,Northern America,Canada,6,7.404
+2015,Europe,Western Europe,Netherlands,7,7.3389999999999995
+2015,Oceania,Australia and New Zealand,New Zealand,8,7.334
+2015,Oceania,Australia and New Zealand,Australia,9,7.313
+2015,Europe,Northern Europe,Sweden,10,7.291
+2015,Asia,Western Asia,Israel,11,7.267
+2015,Europe,Western Europe,Austria,12,7.119
+2015,America,Northern America,United States,13,7.104
+2015,America,Central America,Costa Rica,14,7.087000000000001
+2015,America,Caribbean,Puerto Rico,15,7.039
+2015,Europe,Western Europe,Germany,16,6.994
+2015,America,South America,Brazil,17,6.952000000000001
+2015,Europe,Western Europe,Belgium,18,6.928999999999999
+2015,Europe,Northern Europe,Ireland,19,6.907
+2015,Europe,Western Europe,Luxembourg,20,6.871
+2015,America,Central America,Mexico,21,6.778
+2015,Asia,South-Eastern Asia,Singapore,22,6.739
+2015,Europe,Northern Europe,United Kingdom,23,6.725
+2015,America,South America,Chile,24,6.705
+2015,America,Central America,Panama,25,6.7010000000000005
+2015,America,South America,Argentina,26,6.65
+2015,Europe,Eastern Europe,Czech Republic,27,6.596
+2015,Asia,Western Asia,United Arab Emirates,28,6.5729999999999995
+2015,America,South America,Uruguay,29,6.545
+2015,Europe,Southern Europe,Malta,30,6.4879999999999995
+2015,America,South America,Colombia,31,6.481
+2015,Europe,Western Europe,France,32,6.478
+2015,Asia,South-Eastern Asia,Thailand,33,6.474
+2015,Asia,Western Asia,Saudi Arabia,34,6.379
+2015,Asia,Eastern Asia,Taiwan,34,6.379
+2015,Asia,Western Asia,Qatar,36,6.375
+2015,Europe,Southern Europe,Spain,37,6.361000000000001
+2015,Africa,Northern Africa,Algeria,38,6.355
+2015,America,Central America,Guatemala,39,6.324
+2015,America,South America,Suriname,40,6.269
+2015,Asia,Western Asia,Kuwait,41,6.239
+2015,Asia,Western Asia,Bahrain,42,6.218
+2015,America,Caribbean,Trinidad and Tobago,43,6.167999999999999
+2015,America,South America,Venezuela,44,6.084
+2015,Europe,Eastern Europe,Slovakia,45,6.077999999999999
+2015,America,Central America,El Salvador,46,6.068
+2015,Asia,South-Eastern Asia,Malaysia,47,6.005
+2015,America,Central America,Nicaragua,48,5.992000000000001
+2015,Asia,Central Asia,Uzbekistan,49,5.987
+2015,Europe,Southern Europe,Italy,50,5.977
+2015,America,South America,Ecuador,51,5.976
+2015,America,Central America,Belize,52,5.956
+2015,Asia,Eastern Asia,Japan,53,5.921
+2015,Asia,Central Asia,Kazakhstan,54,5.919
+2015,Europe,Eastern Europe,Moldova,55,5.897
+2015,Europe,Eastern Europe,Russia,56,5.856
+2015,Europe,Eastern Europe,Poland,57,5.835
+2015,Asia,Eastern Asia,South Korea,57,5.835
+2015,America,South America,Bolivia,59,5.822
+2015,Europe,Northern Europe,Lithuania,60,5.813
+2015,Europe,Eastern Europe,Belarus,61,5.8020000000000005
+2015,Asia,Western Asia,Cyprus,62,5.771
+2015,Europe,Southern Europe,Slovenia,63,5.768
+2015,America,South America,Peru,64,5.742999999999999
+2015,Asia,Central Asia,Turkmenistan,65,5.6579999999999995
+2015,Africa,Eastern Africa,Mauritius,66,5.648
+2015,Africa,Northern Africa,Libya,67,5.615
+2015,Europe,Northern Europe,Latvia,68,5.56
+2015,America,South America,Paraguay,70,5.537999999999999
+2015,Europe,Eastern Europe,Romania,71,5.528
+2015,Europe,Northern Europe,Estonia,72,5.517
+2015,America,Caribbean,Jamaica,73,5.51
+2015,Europe,Southern Europe,Croatia,74,5.4879999999999995
+2015,Asia,Eastern Asia,Hong Kong,75,5.457999999999999
+2015,Africa,Eastern Africa,Somalia,76,5.44
+2015,Europe,Southern Europe,Kosovo,77,5.401
+2015,Asia,Western Asia,Turkey,78,5.388999999999999
+2015,Asia,South-Eastern Asia,Indonesia,79,5.314
+2015,Asia,Western Asia,Jordan,80,5.303
+2015,Asia,Western Asia,Azerbaijan,81,5.291
+2015,Asia,South-Eastern Asia,Philippines,82,5.279
+2015,Asia,Eastern Asia,China,83,5.245
+2015,Asia,Southern Asia,Bhutan,84,5.196000000000001
+2015,Asia,Central Asia,Kyrgyz Republic,85,5.185
+2015,Europe,Southern Europe,Serbia,86,5.1770000000000005
+2015,Europe,Southern Europe,Bosnia and Herzegovina,87,5.162999999999999
+2015,Europe,Southern Europe,Montenegro,88,5.1610000000000005
+2015,America,Caribbean,Dominican Republic,89,5.155
+2015,Africa,Northern Africa,Morocco,90,5.151
+2015,Europe,Eastern Europe,Hungary,91,5.145
+2015,Asia,Southern Asia,Pakistan,92,5.132000000000001
+2015,Asia,Western Asia,Lebanon,93,5.129
+2015,Europe,Southern Europe,Portugal,94,5.122999999999999
+2015,Europe,Southern Europe,Macedonia,95,5.121
+2015,Asia,South-Eastern Asia,Vietnam,96,5.061
+2015,Africa,Northern Africa,Tunisia,98,5.045
+2015,Europe,Southern Europe,Greece,99,5.033
+2015,Asia,Central Asia,Tajikistan,100,4.996
+2015,Asia,Eastern Asia,Mongolia,101,4.907
+2015,Asia,South-Eastern Asia,Laos,102,4.876
+2015,Africa,Western Africa,Nigeria,103,4.875
+2015,America,Central America,Honduras,104,4.871
+2015,Asia,Southern Asia,Iran,105,4.813
+2015,Africa,Eastern Africa,Zambia,106,4.795
+2015,Asia,Southern Asia,Nepal,107,4.793
+2015,Asia,Western Asia,Palestine,108,4.754
+2015,Europe,Southern Europe,Albania,109,4.655
+2015,Asia,Southern Asia,Bangladesh,110,4.643
+2015,Africa,Western Africa,Sierra Leone,111,4.635
+2015,Asia,Western Asia,Iraq,112,4.575
+2015,Africa,Southern Africa,Namibia,113,4.574
+2015,Africa,Middle Africa,Cameroon,114,4.513
+2015,Africa,Eastern Africa,Ethiopia,115,4.508
+2015,Africa,Southern Africa,South Africa,116,4.459
+2015,Asia,Southern Asia,Sri Lanka,117,4.415
+2015,Asia,Southern Asia,India,118,4.404
+2015,Asia,Eastern Asia,Myanmar,119,4.395
+2015,Africa,Northern Africa,Egypt,120,4.362
+2015,Asia,Western Asia,Armenia,121,4.36
+2015,Africa,Eastern Africa,Kenya,122,4.356
+2015,Europe,Eastern Europe,Ukraine,123,4.324
+2015,Africa,Western Africa,Ghana,124,4.276
+2015,Africa,Middle Africa,DR Congo,125,4.272
+2015,Asia,Western Asia,Georgia,126,4.252
+2015,Africa,Middle Africa,Congo Republic,127,4.236000000000001
+2015,Africa,Western Africa,Senegal,128,4.218999999999999
+2015,Europe,Eastern Europe,Bulgaria,129,4.217
+2015,Africa,Western Africa,Mauritania,130,4.2010000000000005
+2015,Africa,Eastern Africa,Zimbabwe,131,4.1930000000000005
+2015,Africa,Eastern Africa,Malawi,132,4.156000000000001
+2015,Africa,Northern Africa,Sudan,133,4.138999999999999
+2015,Africa,Middle Africa,Gabon,134,4.121
+2015,Africa,Western Africa,Mali,135,4.073
+2015,America,Caribbean,Haiti,136,4.0280000000000005
+2015,Africa,Southern Africa,Botswana,137,3.9739999999999998
+2015,Africa,Eastern Africa,Comoros,138,3.9560000000000004
+2015,Africa,Western Africa,Cote d'Ivoire,139,3.9160000000000004
+2015,Asia,South-Eastern Asia,Cambodia,140,3.907
+2015,Africa,Middle Africa,Angola,141,3.866
+2015,Africa,Western Africa,Niger,142,3.8560000000000003
+2015,Africa,Eastern Africa,South Sudan,143,3.832
+2015,Africa,Middle Africa,Chad,144,3.763
+2015,Africa,Western Africa,Burkina Faso,145,3.739
+2015,Africa,Eastern Africa,Uganda,145,3.739
+2015,Asia,Western Asia,Yemen,147,3.7239999999999998
+2015,Africa,Eastern Africa,Madagascar,148,3.695
+2015,Africa,Eastern Africa,Tanzania,149,3.6660000000000004
+2015,Africa,Western Africa,Liberia,150,3.622
+2015,Africa,Western Africa,Guinea,151,3.6069999999999998
+2015,Africa,Eastern Africa,Rwanda,152,3.515
+2015,Africa,Western Africa,Benin,153,3.484
+2015,Asia,Southern Asia,Afghanistan,154,3.36
+2015,Africa,Western Africa,Togo,155,3.303
+2015,Asia,Western Asia,Syria,156,3.069
+2015,Africa,Eastern Africa,Burundi,157,2.905
+2016,Europe,Northern Europe,Norway,1,7.537000179290769
+2016,Europe,Northern Europe,Denmark,2,7.52199983596802
+2016,Europe,Northern Europe,Iceland,3,7.50400018692017
+2016,Europe,Western Europe,Switzerland,4,7.49399995803833
+2016,Europe,Northern Europe,Finland,5,7.468999862670901
+2016,Europe,Western Europe,Netherlands,6,7.3769998550415
+2016,America,Northern America,Canada,7,7.31599998474121
+2016,Oceania,Australia and New Zealand,New Zealand,8,7.31400012969971
+2016,Europe,Northern Europe,Sweden,9,7.28399991989136
+2016,Oceania,Australia and New Zealand,Australia,10,7.28399991989136
+2016,Asia,Western Asia,Israel,11,7.212999820709231
+2016,America,Central America,Costa Rica,12,7.0789999961853
+2016,Europe,Western Europe,Austria,13,7.00600004196167
+2016,America,Northern America,United States,14,6.993000030517581
+2016,Europe,Northern Europe,Ireland,15,6.9770002365112305
+2016,Europe,Western Europe,Germany,16,6.9510002136230495
+2016,Europe,Western Europe,Belgium,17,6.89099979400635
+2016,Europe,Western Europe,Luxembourg,18,6.86299991607666
+2016,Europe,Northern Europe,United Kingdom,19,6.71400022506714
+2016,America,South America,Chile,20,6.65199995040894
+2016,Asia,Western Asia,United Arab Emirates,21,6.6479997634887695
+2016,America,South America,Brazil,22,6.6350002288818395
+2016,Europe,Eastern Europe,Czech Republic,23,6.60900020599365
+2016,America,South America,Argentina,24,6.59899997711182
+2016,America,Central America,Mexico,25,6.57800006866455
+2016,Asia,South-Eastern Asia,Singapore,26,6.57200002670288
+2016,Europe,Southern Europe,Malta,27,6.52699995040894
+2016,America,South America,Uruguay,28,6.4539999961853
+2016,America,Central America,Guatemala,29,6.4539999961853
+2016,America,Central America,Panama,30,6.4520001411438
+2016,Europe,Western Europe,France,31,6.44199991226196
+2016,Asia,South-Eastern Asia,Thailand,32,6.4239997863769505
+2016,Asia,Eastern Asia,Taiwan,33,6.42199993133545
+2016,Europe,Southern Europe,Spain,34,6.40299987792969
+2016,Asia,Western Asia,Qatar,35,6.375
+2016,America,South America,Colombia,36,6.35699987411499
+2016,Asia,Western Asia,Saudi Arabia,37,6.343999862670901
+2016,America,Caribbean,Trinidad and Tobago,38,6.1680002212524405
+2016,Asia,Western Asia,Kuwait,39,6.10500001907349
+2016,Europe,Eastern Europe,Slovakia,40,6.09800004959106
+2016,Asia,Western Asia,Bahrain,41,6.08699989318848
+2016,Asia,South-Eastern Asia,Malaysia,42,6.08400011062622
+2016,America,Central America,Nicaragua,43,6.07100009918213
+2016,America,South America,Ecuador,44,6.00799989700317
+2016,America,Central America,El Salvador,45,6.002999782562259
+2016,Europe,Eastern Europe,Poland,46,5.97300004959106
+2016,Asia,Central Asia,Uzbekistan,47,5.97100019454956
+2016,Europe,Southern Europe,Italy,48,5.96400022506714
+2016,Europe,Eastern Europe,Russia,49,5.962999820709231
+2016,America,Central America,Belize,50,5.955999851226809
+2016,Asia,Eastern Asia,Japan,51,5.92000007629395
+2016,Europe,Northern Europe,Lithuania,52,5.90199995040894
+2016,Africa,Northern Africa,Algeria,53,5.872000217437741
+2016,Europe,Northern Europe,Latvia,54,5.849999904632571
+2016,Asia,Eastern Asia,South Korea,55,5.837999820709231
+2016,Europe,Eastern Europe,Moldova,56,5.837999820709231
+2016,Europe,Eastern Europe,Romania,57,5.824999809265139
+2016,America,South America,Bolivia,58,5.82299995422363
+2016,Asia,Central Asia,Turkmenistan,59,5.82200002670288
+2016,Asia,Central Asia,Kazakhstan,60,5.8189997673034695
+2016,Asia,Western Asia,Cyprus,61,5.80999994277954
+2016,Europe,Southern Europe,Slovenia,62,5.75799989700317
+2016,America,South America,Peru,63,5.71500015258789
+2016,Africa,Eastern Africa,Mauritius,64,5.62900018692017
+2016,Europe,Northern Europe,Estonia,66,5.61100006103516
+2016,Europe,Eastern Europe,Belarus,67,5.5689997673034695
+2016,Africa,Northern Africa,Libya,68,5.525000095367429
+2016,Asia,Western Asia,Turkey,69,5.5
+2016,America,South America,Paraguay,70,5.493000030517581
+2016,Asia,Eastern Asia,Hong Kong,71,5.47200012207031
+2016,Asia,South-Eastern Asia,Philippines,72,5.42999982833862
+2016,Europe,Southern Europe,Serbia,73,5.39499998092651
+2016,Asia,Western Asia,Jordan,74,5.33599996566772
+2016,Europe,Eastern Europe,Hungary,75,5.32399988174438
+2016,America,Caribbean,Jamaica,76,5.31099987030029
+2016,Europe,Southern Europe,Croatia,77,5.2930002212524405
+2016,Europe,Southern Europe,Kosovo,78,5.27899980545044
+2016,Asia,Eastern Asia,China,79,5.2729997634887695
+2016,Asia,Southern Asia,Pakistan,80,5.26900005340576
+2016,Asia,South-Eastern Asia,Indonesia,81,5.26200008392334
+2016,America,South America,Venezuela,82,5.25
+2016,Europe,Southern Europe,Montenegro,83,5.23699998855591
+2016,Africa,Northern Africa,Morocco,84,5.2350001335144
+2016,Asia,Western Asia,Azerbaijan,85,5.234000205993651
+2016,America,Caribbean,Dominican Republic,86,5.230000019073491
+2016,Europe,Southern Europe,Greece,87,5.2270002365112305
+2016,Asia,Western Asia,Lebanon,88,5.22499990463257
+2016,Europe,Southern Europe,Portugal,89,5.19500017166138
+2016,Europe,Southern Europe,Bosnia and Herzegovina,90,5.18200016021729
+2016,America,Central America,Honduras,91,5.1810002326965305
+2016,Europe,Southern Europe,Macedonia,92,5.175000190734861
+2016,Africa,Eastern Africa,Somalia,93,5.151000022888179
+2016,Asia,South-Eastern Asia,Vietnam,94,5.07399988174438
+2016,Africa,Western Africa,Nigeria,95,5.07399988174438
+2016,Asia,Central Asia,Tajikistan,96,5.04099988937378
+2016,Asia,Southern Asia,Bhutan,97,5.01100015640259
+2016,Asia,Central Asia,Kyrgyz Republic,98,5.0040001869201705
+2016,Asia,Southern Asia,Nepal,99,4.961999893188481
+2016,Asia,Eastern Asia,Mongolia,100,4.95499992370605
+2016,Africa,Southern Africa,South Africa,101,4.8289999961853
+2016,Africa,Northern Africa,Tunisia,102,4.80499982833862
+2016,Asia,Western Asia,Palestine,103,4.77500009536743
+2016,Africa,Northern Africa,Egypt,104,4.7350001335144
+2016,Europe,Eastern Europe,Bulgaria,105,4.71400022506714
+2016,Africa,Western Africa,Sierra Leone,106,4.70900011062622
+2016,Africa,Middle Africa,Cameroon,107,4.69500017166138
+2016,Asia,Southern Asia,Iran,108,4.69199991226196
+2016,Europe,Southern Europe,Albania,109,4.64400005340576
+2016,Asia,Southern Asia,Bangladesh,110,4.60799980163574
+2016,Africa,Southern Africa,Namibia,111,4.57399988174438
+2016,Africa,Eastern Africa,Kenya,112,4.55299997329712
+2016,Africa,Eastern Africa,Mozambique,113,4.550000190734861
+2016,Asia,Eastern Asia,Myanmar,114,4.54500007629395
+2016,Africa,Western Africa,Senegal,115,4.53499984741211
+2016,Africa,Eastern Africa,Zambia,116,4.513999938964839
+2016,Asia,Western Asia,Iraq,117,4.49700021743774
+2016,Africa,Middle Africa,Gabon,118,4.46500015258789
+2016,Africa,Eastern Africa,Ethiopia,119,4.46000003814697
+2016,Asia,Southern Asia,Sri Lanka,120,4.44000005722046
+2016,Asia,Western Asia,Armenia,121,4.37599992752075
+2016,Asia,Southern Asia,India,122,4.31500005722046
+2016,Africa,Western Africa,Mauritania,123,4.29199981689453
+2016,Africa,Middle Africa,Congo Republic,124,4.29099988937378
+2016,Asia,Western Asia,Georgia,125,4.28599977493286
+2016,Africa,Middle Africa,DR Congo,126,4.2800002098083505
+2016,Africa,Western Africa,Mali,127,4.19000005722046
+2016,Africa,Western Africa,Cote d'Ivoire,128,4.17999982833862
+2016,Asia,South-Eastern Asia,Cambodia,129,4.1680002212524405
+2016,Africa,Northern Africa,Sudan,130,4.138999938964839
+2016,Africa,Western Africa,Ghana,131,4.11999988555908
+2016,Europe,Eastern Europe,Ukraine,132,4.09600019454956
+2016,Africa,Eastern Africa,Uganda,133,4.08099985122681
+2016,Africa,Western Africa,Burkina Faso,134,4.03200006484985
+2016,Africa,Western Africa,Niger,135,4.02799987792969
+2016,Africa,Eastern Africa,Malawi,136,3.97000002861023
+2016,Africa,Middle Africa,Chad,137,3.9360001087188703
+2016,Africa,Eastern Africa,Zimbabwe,138,3.875
+2016,Africa,Southern Africa,Lesotho,139,3.80800008773804
+2016,Africa,Middle Africa,Angola,140,3.79500007629395
+2016,Asia,Southern Asia,Afghanistan,141,3.7939999103546103
+2016,Africa,Southern Africa,Botswana,142,3.7660000324249303
+2016,Africa,Western Africa,Benin,143,3.65700006484985
+2016,Africa,Eastern Africa,Madagascar,144,3.64400005340576
+2016,America,Caribbean,Haiti,145,3.6029999256133998
+2016,Asia,Western Asia,Yemen,146,3.59299993515015
+2016,Africa,Eastern Africa,South Sudan,147,3.5910000801086404
+2016,Africa,Western Africa,Liberia,148,3.5329999923706095
+2016,Africa,Western Africa,Guinea,149,3.50699996948242
+2016,Africa,Western Africa,Togo,150,3.4949998855590803
+2016,Africa,Eastern Africa,Rwanda,151,3.47099995613098
+2016,Asia,Western Asia,Syria,152,3.46199989318848
+2016,Africa,Eastern Africa,Tanzania,153,3.34899997711182
+2016,Africa,Eastern Africa,Burundi,154,2.90499997138977
+2016,Africa,Middle Africa,Central African Republic,155,2.69300007820129
+2017,Europe,Northern Europe,Finland,1,7.632000000000001
+2017,Europe,Northern Europe,Norway,2,7.593999999999999
+2017,Europe,Northern Europe,Denmark,3,7.555
+2017,Europe,Northern Europe,Iceland,4,7.495
+2017,Europe,Western Europe,Switzerland,5,7.487
+2017,Europe,Western Europe,Netherlands,6,7.441
+2017,America,Northern America,Canada,7,7.327999999999999
+2017,Oceania,Australia and New Zealand,New Zealand,8,7.324
+2017,Europe,Northern Europe,Sweden,9,7.314
+2017,Oceania,Australia and New Zealand,Australia,10,7.272
+2017,Europe,Northern Europe,United Kingdom,11,7.19
+2017,Europe,Western Europe,Austria,12,7.138999999999999
+2017,America,Central America,Costa Rica,13,7.072
+2017,Europe,Northern Europe,Ireland,14,6.977
+2017,Europe,Western Europe,Germany,15,6.965
+2017,Europe,Western Europe,Belgium,16,6.9270000000000005
+2017,Europe,Western Europe,Luxembourg,17,6.91
+2017,America,Northern America,United States,18,6.886
+2017,Asia,Western Asia,Israel,19,6.814
+2017,Asia,Western Asia,United Arab Emirates,20,6.774
+2017,Europe,Eastern Europe,Czech Republic,21,6.711
+2017,Europe,Southern Europe,Malta,22,6.627000000000001
+2017,Europe,Western Europe,France,23,6.489
+2017,America,Central America,Mexico,24,6.4879999999999995
+2017,America,South America,Chile,25,6.476
+2017,Asia,Eastern Asia,Taiwan,26,6.441
+2017,America,Central America,Panama,27,6.43
+2017,America,South America,Brazil,28,6.419
+2017,America,South America,Argentina,29,6.388
+2017,America,Central America,Guatemala,30,6.382000000000001
+2017,America,South America,Uruguay,31,6.379
+2017,Asia,Western Asia,Qatar,32,6.374
+2017,Asia,Western Asia,Saudi Arabia,33,6.371
+2017,Asia,South-Eastern Asia,Singapore,34,6.343
+2017,Asia,South-Eastern Asia,Malaysia,35,6.322
+2017,Europe,Southern Europe,Spain,36,6.31
+2017,America,South America,Colombia,37,6.26
+2017,America,Caribbean,Trinidad and Tobago,38,6.192
+2017,Europe,Eastern Europe,Slovakia,39,6.172999999999999
+2017,America,Central America,El Salvador,40,6.167000000000001
+2017,America,Central America,Nicaragua,41,6.141
+2017,Europe,Eastern Europe,Poland,42,6.122999999999999
+2017,Asia,Western Asia,Bahrain,43,6.105
+2017,Asia,Central Asia,Uzbekistan,44,6.096
+2017,Asia,Western Asia,Kuwait,45,6.082999999999999
+2017,Asia,South-Eastern Asia,Thailand,46,6.072
+2017,Europe,Southern Europe,Italy,47,6.0
+2017,America,South America,Ecuador,48,5.973
+2017,America,Central America,Belize,49,5.956
+2017,Europe,Northern Europe,Lithuania,50,5.952000000000001
+2017,Europe,Southern Europe,Slovenia,51,5.9479999999999995
+2017,Europe,Eastern Europe,Romania,52,5.945
+2017,Europe,Northern Europe,Latvia,53,5.933
+2017,Asia,Eastern Asia,Japan,54,5.915
+2017,Africa,Eastern Africa,Mauritius,55,5.891
+2017,America,Caribbean,Jamaica,56,5.89
+2017,Asia,Eastern Asia,South Korea,57,5.875
+2017,Asia,Western Asia,Cyprus,58,5.835
+2017,Europe,Eastern Europe,Russia,59,5.81
+2017,Asia,Central Asia,Kazakhstan,60,5.79
+2017,America,South America,Bolivia,62,5.752000000000001
+2017,Europe,Northern Europe,Estonia,63,5.739
+2017,America,South America,Paraguay,64,5.681
+2017,America,South America,Peru,65,5.662999999999999
+2017,Europe,Southern Europe,Kosovo,66,5.662000000000001
+2017,Europe,Eastern Europe,Moldova,67,5.64
+2017,Asia,Central Asia,Turkmenistan,68,5.636
+2017,Europe,Eastern Europe,Hungary,69,5.62
+2017,Africa,Northern Africa,Libya,70,5.566
+2017,Asia,South-Eastern Asia,Philippines,71,5.524
+2017,America,Central America,Honduras,72,5.504
+2017,Europe,Eastern Europe,Belarus,73,5.483
+2017,Asia,Western Asia,Turkey,74,5.483
+2017,Asia,Southern Asia,Pakistan,75,5.472
+2017,Asia,Eastern Asia,Hong Kong,76,5.43
+2017,Europe,Southern Europe,Portugal,77,5.41
+2017,Europe,Southern Europe,Serbia,78,5.398
+2017,Europe,Southern Europe,Greece,79,5.358
+2017,Asia,Western Asia,Lebanon,80,5.358
+2017,Europe,Southern Europe,Montenegro,81,5.347
+2017,Europe,Southern Europe,Croatia,82,5.321000000000001
+2017,America,Caribbean,Dominican Republic,83,5.3020000000000005
+2017,Africa,Northern Africa,Algeria,84,5.295
+2017,Africa,Northern Africa,Morocco,85,5.254
+2017,Asia,Eastern Asia,China,86,5.246
+2017,Asia,Western Asia,Azerbaijan,87,5.2010000000000005
+2017,Asia,Central Asia,Tajikistan,88,5.199
+2017,Europe,Southern Europe,Macedonia,89,5.185
+2017,Asia,Western Asia,Jordan,90,5.1610000000000005
+2017,Africa,Western Africa,Nigeria,91,5.155
+2017,Asia,Central Asia,Kyrgyz Republic,92,5.131
+2017,Europe,Southern Europe,Bosnia and Herzegovina,93,5.129
+2017,Asia,Eastern Asia,Mongolia,94,5.125
+2017,Asia,South-Eastern Asia,Vietnam,95,5.103
+2017,Asia,South-Eastern Asia,Indonesia,96,5.093
+2017,Asia,Southern Asia,Bhutan,97,5.082
+2017,Africa,Eastern Africa,Somalia,98,4.982
+2017,Africa,Middle Africa,Cameroon,99,4.975
+2017,Europe,Eastern Europe,Bulgaria,100,4.933
+2017,Asia,Southern Asia,Nepal,101,4.88
+2017,America,South America,Venezuela,102,4.806
+2017,Africa,Middle Africa,Gabon,103,4.758
+2017,Asia,Western Asia,Palestine,104,4.743
+2017,Africa,Southern Africa,South Africa,105,4.724
+2017,Asia,Southern Asia,Iran,106,4.707
+2017,Africa,Western Africa,Cote d'Ivoire,107,4.671
+2017,Africa,Western Africa,Ghana,108,4.657
+2017,Africa,Western Africa,Senegal,109,4.631
+2017,Asia,South-Eastern Asia,Laos,110,4.623
+2017,Africa,Northern Africa,Tunisia,111,4.592
+2017,Europe,Southern Europe,Albania,112,4.586
+2017,Africa,Western Africa,Sierra Leone,113,4.571000000000001
+2017,Africa,Middle Africa,Congo Republic,114,4.559
+2017,Asia,Southern Asia,Bangladesh,115,4.5
+2017,Asia,Southern Asia,Sri Lanka,116,4.471
+2017,Asia,Western Asia,Iraq,117,4.456
+2017,Africa,Western Africa,Mali,118,4.447
+2017,Africa,Southern Africa,Namibia,119,4.441
+2017,Asia,South-Eastern Asia,Cambodia,120,4.433
+2017,Africa,Western Africa,Burkina Faso,121,4.4239999999999995
+2017,Africa,Northern Africa,Egypt,122,4.419
+2017,Africa,Eastern Africa,Mozambique,123,4.417
+2017,Africa,Eastern Africa,Kenya,124,4.41
+2017,Africa,Eastern Africa,Zambia,125,4.377
+2017,Africa,Western Africa,Mauritania,126,4.356
+2017,Africa,Eastern Africa,Ethiopia,127,4.35
+2017,Asia,Western Asia,Georgia,128,4.34
+2017,Asia,Western Asia,Armenia,129,4.321000000000001
+2017,Asia,Eastern Asia,Myanmar,130,4.308
+2017,Africa,Middle Africa,Chad,131,4.301
+2017,Africa,Middle Africa,DR Congo,132,4.245
+2017,Asia,Southern Asia,India,133,4.19
+2017,Africa,Western Africa,Niger,134,4.166
+2017,Africa,Eastern Africa,Uganda,135,4.1610000000000005
+2017,Africa,Western Africa,Benin,136,4.141
+2017,Africa,Northern Africa,Sudan,137,4.138999999999999
+2017,Europe,Eastern Europe,Ukraine,138,4.103
+2017,Africa,Western Africa,Togo,139,3.9989999999999997
+2017,Africa,Western Africa,Guinea,140,3.964
+2017,Africa,Southern Africa,Lesotho,141,3.8080000000000003
+2017,Africa,Middle Africa,Angola,142,3.795
+2017,Africa,Eastern Africa,Madagascar,143,3.7739999999999996
+2017,Africa,Eastern Africa,Zimbabwe,144,3.6919999999999997
+2017,Asia,Southern Asia,Afghanistan,145,3.6319999999999997
+2017,Africa,Southern Africa,Botswana,146,3.59
+2017,Africa,Eastern Africa,Malawi,147,3.5869999999999997
+2017,America,Caribbean,Haiti,148,3.582
+2017,Africa,Western Africa,Liberia,149,3.495
+2017,Asia,Western Asia,Syria,150,3.4619999999999997
+2017,Africa,Eastern Africa,Rwanda,151,3.408
+2017,Asia,Western Asia,Yemen,152,3.355
+2017,Africa,Eastern Africa,Tanzania,153,3.303
+2017,Africa,Eastern Africa,South Sudan,154,3.2539999999999996
+2017,Africa,Middle Africa,Central African Republic,155,3.083
+2017,Africa,Eastern Africa,Burundi,156,2.905
+2018,Europe,Northern Europe,Finland,1,7.769
+2018,Europe,Northern Europe,Denmark,2,7.6
+2018,Europe,Northern Europe,Norway,3,7.553999999999999
+2018,Europe,Northern Europe,Iceland,4,7.494
+2018,Europe,Western Europe,Netherlands,5,7.4879999999999995
+2018,Europe,Western Europe,Switzerland,6,7.48
+2018,Europe,Northern Europe,Sweden,7,7.343
+2018,Oceania,Australia and New Zealand,New Zealand,8,7.307
+2018,America,Northern America,Canada,9,7.278
+2018,Europe,Western Europe,Austria,10,7.246
+2018,Oceania,Australia and New Zealand,Australia,11,7.228
+2018,America,Central America,Costa Rica,12,7.167000000000001
+2018,Asia,Western Asia,Israel,13,7.138999999999999
+2018,Europe,Western Europe,Luxembourg,14,7.09
+2018,Europe,Northern Europe,United Kingdom,15,7.053999999999999
+2018,Europe,Northern Europe,Ireland,16,7.021
+2018,Europe,Western Europe,Germany,17,6.985
+2018,Europe,Western Europe,Belgium,18,6.922999999999999
+2018,America,Northern America,United States,19,6.892
+2018,Europe,Eastern Europe,Czech Republic,20,6.852
+2018,Asia,Western Asia,United Arab Emirates,21,6.825
+2018,Europe,Southern Europe,Malta,22,6.726
+2018,America,Central America,Mexico,23,6.595
+2018,Europe,Western Europe,France,24,6.5920000000000005
+2018,Asia,Eastern Asia,Taiwan,25,6.446000000000001
+2018,America,South America,Chile,26,6.444
+2018,America,Central America,Guatemala,27,6.436
+2018,Asia,Western Asia,Saudi Arabia,28,6.375
+2018,Asia,Western Asia,Qatar,29,6.374
+2018,Europe,Southern Europe,Spain,30,6.354
+2018,America,Central America,Panama,31,6.321000000000001
+2018,America,South America,Brazil,32,6.3
+2018,America,South America,Uruguay,33,6.292999999999999
+2018,Asia,South-Eastern Asia,Singapore,34,6.2620000000000005
+2018,America,Central America,El Salvador,35,6.252999999999999
+2018,Europe,Southern Europe,Italy,36,6.223
+2018,Asia,Western Asia,Bahrain,37,6.199
+2018,Europe,Eastern Europe,Slovakia,38,6.1979999999999995
+2018,America,Caribbean,Trinidad and Tobago,39,6.192
+2018,Europe,Eastern Europe,Poland,40,6.182
+2018,Asia,Central Asia,Uzbekistan,41,6.1739999999999995
+2018,Europe,Northern Europe,Lithuania,42,6.149
+2018,America,South America,Colombia,43,6.125
+2018,Europe,Southern Europe,Slovenia,44,6.117999999999999
+2018,America,Central America,Nicaragua,45,6.105
+2018,Europe,Southern Europe,Kosovo,46,6.1
+2018,America,South America,Argentina,47,6.086
+2018,Europe,Eastern Europe,Romania,48,6.07
+2018,Asia,Western Asia,Cyprus,49,6.046
+2018,America,South America,Ecuador,50,6.028
+2018,Asia,Western Asia,Kuwait,51,6.021
+2018,Asia,South-Eastern Asia,Thailand,52,6.007999999999999
+2018,Europe,Northern Europe,Latvia,53,5.94
+2018,Asia,Eastern Asia,South Korea,54,5.895
+2018,Europe,Northern Europe,Estonia,55,5.893
+2018,America,Caribbean,Jamaica,56,5.89
+2018,Africa,Eastern Africa,Mauritius,57,5.888
+2018,Asia,Eastern Asia,Japan,58,5.886
+2018,America,Central America,Honduras,59,5.86
+2018,Asia,Central Asia,Kazakhstan,60,5.809
+2018,America,South America,Bolivia,61,5.779
+2018,Europe,Eastern Europe,Hungary,62,5.757999999999999
+2018,America,South America,Paraguay,63,5.742999999999999
+2018,America,South America,Peru,65,5.697
+2018,Europe,Southern Europe,Portugal,66,5.693
+2018,Asia,Southern Asia,Pakistan,67,5.653
+2018,Europe,Eastern Europe,Russia,68,5.648
+2018,Asia,South-Eastern Asia,Philippines,69,5.631
+2018,Europe,Southern Europe,Serbia,70,5.603
+2018,Europe,Eastern Europe,Moldova,71,5.529
+2018,Africa,Northern Africa,Libya,72,5.525
+2018,Europe,Southern Europe,Montenegro,73,5.523
+2018,Asia,Central Asia,Tajikistan,74,5.4670000000000005
+2018,Europe,Southern Europe,Croatia,75,5.432
+2018,Asia,Eastern Asia,Hong Kong,76,5.43
+2018,America,Caribbean,Dominican Republic,77,5.425
+2018,Europe,Southern Europe,Bosnia and Herzegovina,78,5.386
+2018,Asia,Western Asia,Turkey,79,5.372999999999999
+2018,Asia,South-Eastern Asia,Malaysia,80,5.3389999999999995
+2018,Europe,Eastern Europe,Belarus,81,5.3229999999999995
+2018,Europe,Southern Europe,Greece,82,5.287000000000001
+2018,Asia,Eastern Asia,Mongolia,83,5.285
+2018,Europe,Southern Europe,Macedonia,84,5.274
+2018,Africa,Western Africa,Nigeria,85,5.265
+2018,Asia,Central Asia,Kyrgyz Republic,86,5.261
+2018,Asia,Central Asia,Turkmenistan,87,5.247000000000001
+2018,Africa,Northern Africa,Algeria,88,5.211
+2018,Africa,Northern Africa,Morocco,89,5.207999999999999
+2018,Asia,Western Asia,Azerbaijan,90,5.207999999999999
+2018,Asia,Western Asia,Lebanon,91,5.197
+2018,Asia,South-Eastern Asia,Indonesia,92,5.192
+2018,Asia,Eastern Asia,China,93,5.191
+2018,Asia,South-Eastern Asia,Vietnam,94,5.175
+2018,Asia,Southern Asia,Bhutan,95,5.082
+2018,Africa,Middle Africa,Cameroon,96,5.044
+2018,Europe,Eastern Europe,Bulgaria,97,5.011
+2018,Africa,Western Africa,Ghana,98,4.996
+2018,Africa,Western Africa,Cote d'Ivoire,99,4.944
+2018,Asia,Southern Asia,Nepal,100,4.913
+2018,Asia,Western Asia,Jordan,101,4.906000000000001
+2018,Africa,Western Africa,Benin,102,4.883
+2018,Africa,Middle Africa,Congo Republic,103,4.812
+2018,Africa,Middle Africa,Gabon,104,4.7989999999999995
+2018,Asia,South-Eastern Asia,Laos,105,4.796
+2018,Africa,Southern Africa,South Africa,106,4.7219999999999995
+2018,Europe,Southern Europe,Albania,107,4.718999999999999
+2018,America,South America,Venezuela,108,4.707
+2018,Asia,South-Eastern Asia,Cambodia,109,4.7
+2018,Asia,Western Asia,Palestine,110,4.696000000000001
+2018,Africa,Western Africa,Senegal,111,4.681
+2018,Africa,Eastern Africa,Somalia,112,4.668
+2018,Africa,Southern Africa,Namibia,113,4.638999999999999
+2018,Africa,Western Africa,Niger,114,4.628
+2018,Africa,Western Africa,Burkina Faso,115,4.587
+2018,Asia,Western Asia,Armenia,116,4.559
+2018,Asia,Southern Asia,Iran,117,4.548
+2018,Africa,Western Africa,Guinea,118,4.534
+2018,Asia,Western Asia,Georgia,119,4.519
+2018,Africa,Western Africa,Gambia,120,4.516
+2018,Africa,Eastern Africa,Kenya,121,4.5089999999999995
+2018,Africa,Western Africa,Mauritania,122,4.49
+2018,Africa,Eastern Africa,Mozambique,123,4.466
+2018,Africa,Northern Africa,Tunisia,124,4.461
+2018,Asia,Southern Asia,Bangladesh,125,4.456
+2018,Asia,Western Asia,Iraq,126,4.437
+2018,Africa,Middle Africa,DR Congo,127,4.418
+2018,Africa,Western Africa,Mali,128,4.39
+2018,Africa,Western Africa,Sierra Leone,129,4.374
+2018,Asia,Southern Asia,Sri Lanka,130,4.3660000000000005
+2018,Asia,Eastern Asia,Myanmar,131,4.36
+2018,Africa,Middle Africa,Chad,132,4.35
+2018,Europe,Eastern Europe,Ukraine,133,4.332
+2018,Africa,Eastern Africa,Ethiopia,134,4.2860000000000005
+2018,Africa,Southern Africa,Eswatini,135,4.212
+2018,Africa,Eastern Africa,Uganda,136,4.189
+2018,Africa,Northern Africa,Egypt,137,4.166
+2018,Africa,Eastern Africa,Zambia,138,4.107
+2018,Africa,Western Africa,Togo,139,4.085
+2018,Asia,Southern Asia,India,140,4.015
+2018,Africa,Western Africa,Liberia,141,3.975
+2018,Africa,Eastern Africa,Comoros,142,3.9730000000000003
+2018,Africa,Eastern Africa,Madagascar,143,3.9330000000000003
+2018,Africa,Southern Africa,Lesotho,144,3.802
+2018,Africa,Eastern Africa,Burundi,145,3.775
+2018,Africa,Eastern Africa,Zimbabwe,146,3.6630000000000003
+2018,America,Caribbean,Haiti,147,3.597
+2018,Africa,Southern Africa,Botswana,148,3.488
+2018,Asia,Western Asia,Syria,149,3.4619999999999997
+2018,Africa,Eastern Africa,Malawi,150,3.41
+2018,Asia,Western Asia,Yemen,151,3.38
+2018,Africa,Eastern Africa,Rwanda,152,3.3339999999999996
+2018,Africa,Eastern Africa,Tanzania,153,3.2310000000000003
+2018,Asia,Southern Asia,Afghanistan,154,3.2030000000000003
+2018,Africa,Middle Africa,Central African Republic,155,3.083
+2018,Africa,Eastern Africa,South Sudan,156,2.853
